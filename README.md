@@ -26,6 +26,12 @@ Since then, each line of code I write feels like a line in my own book. I write 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ff0000?style=for-the-badge&logo=figma&logoColor=white)
 
+## Learning in Pet Projects
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ## How I Work
 
 - You send me a layout or reference
