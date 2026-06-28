@@ -44,6 +44,7 @@ Since then, each line of code I write feels like a line in my own book. I write 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yangbang74/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangproger@gmail.com)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ## Activites
 ![Top Langs](https://github-readme-stats-git-master-denvercoder1.vercel.app/api/top-langs/?username=YangBang74&layout=compact&theme=radical)
