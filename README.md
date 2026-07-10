@@ -3,7 +3,7 @@
 There was a time I used to gaze at websites and wonder, “Someone out there builds this.”  
 Now — I am that someone.
 
-I'm a **Senior Middle Software Engineer** with a self-made path: no college, no expensive courses, no titles I didn’t earn. One day I opened an HTML file and began. Since then, every line of code has been a line in my own book — written carefully, with meaning, and above all — so it works.
+I'm a **Middle Software Engineer** with a self-made path: no college, no expensive courses, no titles I didn’t earn. One day I opened an HTML file and began. Since then, every line of code has been a line in my own book — written carefully, with meaning, and above all — so it works.
 
 I design and ship **production-grade software** across the stack: from pixel-perfect interfaces to scalable backends, APIs, and cross-platform apps. I don’t just write code — I architect systems, choose the right tools, and deliver solutions that last.
 
